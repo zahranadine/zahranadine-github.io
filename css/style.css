@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+:root {
+	--caley-primary: #746e66;
+	--caley-secondary: #e8e4e0;
+}
+
+.bg-caley {
+	background-color: var(--caley-primary);
+}
+
+.text-caley {
+	color: var(--caley-primary);
+}
+
+.font-gupter {
+	font-family: 'Gupter', serif;
+}
+
+.font-gotu {
+	font-family: 'Gotu', sans-serif;
+}
+
+.font-glegoo {
+	font-family: 'Glegoo', serif;
+}
+
+.font-lalezar {
+	font-family: 'Lalezar', sans-serif;
+}
+
+.brand {
+	height: 5em;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+	background-color: var(--caley-primary) !important;
+	box-shadow: none !important;
+}
+
+.fs-tiny {
+	font-size: 0.8em;
+}
+
+.caley-secondary {
+	background-color: var(--caley-secondary);
+}
+
+.icon {
+	width: 1.8em;
+	transform: translate(-50%, -50%);
+}
+
+.plate > a {
+	border: 3px solid black;
+}
+
+@media screen and (min-width: 992px) {
+	.coin {
+		background-color: transparent;
+	}
+
+	.plate > a {
+		border: none;
+		font-size: 1.1em;
+	}
+}

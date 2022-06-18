@@ -1,0 +1,25 @@
+font :
+- Gupter
+- Gotu
+- Glegoo
+- Lalezar
+
+LINK ICON SET :
+https://www.figma.com/file/TdrJ0XolhCHa408aLkng9t/Free-Icons-Set?node-id=0%3A1
+
+Icon yang digunakan :
+- Icon_download
+- Icon_menu
+- Icon_phone
+- Icon_basket
+- Icon_card
+- Icon_location
+- Icon_phone
+- Icon_schedule_square
+- Icon_search
+- Icon_share
+- Icon_user_circle
+- normal button
+
+LINK BUTTON KIT :
+https://www.figma.com/file/daPrT8BgRKQlgHgsaTCiDJ/DDAP-UI-KIT?node-id=0%3A1
